@@ -23,7 +23,7 @@
 
 I'm a developer and sixth form student in the UK, working towards my A Levels.
 
-I have experience in a range of languages including JavaScript, Python. I now work on a range of projects as hobbies for my own enjoyment and learning.
+I have experience in a range of languages including Python and Javascript. I now work on a range of projects as hobbies for my own enjoyment and learning.
 
 You can find me:
 - on [Discord](https://discord.com) as vis#4374
