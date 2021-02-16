@@ -1,6 +1,6 @@
 ### Hi there, I'm vis 👋
 
-# i am fam
+# i am
 
 #- 📫 How to reach me:
 
