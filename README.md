@@ -21,7 +21,10 @@
 
 # vis 👋
 
-I'm a developer and sixth form student in the UK, currently in my final year working towards my A Levels. Next year I'll (hopefully) be studying Computer Science at university.
+I'm a developer and sixth form student in the UK, working towards my A Levels.
+
+<!--currently in my final year working towards my A Levels. Next year I'll (hopefully) be studying Computer Science at university.
+
 
 I have experience in a range of languages including JavaScript, Python. I now work on a range of projects as hobbies for my own enjoyment and learning.
 
