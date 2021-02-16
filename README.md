@@ -18,15 +18,36 @@
 </table>
 </p>
 
-# hi I'm vis 👋
 
-### 🌱 I’m currently learning ...
+# vis 👋
+
+I'm a developer and sixth form student in the UK, currently in my final year working towards my A Levels. Next year I'll (hopefully) be studying Computer Science at university.
+
+I have experience in a range of languages including JavaScript, Python. I now work on a range of projects as hobbies for my own enjoyment and learning.
+
+You can find me:
+- on [Discord](https://discord.com) as vis#4374
+- over email as <needtomake>
+- on [GitHub](https://github.com/vis2x) right here
+
+
+
+
+
+
+
+
+
+
+<!--# hi I'm vis 👋
+
+<!--### 🌱 I’m currently learning ...
   Javascript
 
-### 🔭 I’m currently working on ...
+<!--### 🔭 I’m currently working on ...
   Python
 
-### 📫 How to reach me:
+<!--### 📫 How to reach me:
   on Discord as vis#4374
   over email at
   on GitHub right here
@@ -34,14 +55,14 @@
 <!--
 **vis2x/vis2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 😄 Pronouns: ...
+<!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
