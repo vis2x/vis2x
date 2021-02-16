@@ -1,12 +1,15 @@
-## Hi there, I'm vis 👋
+# hi I'm vis 👋
 
-#### i am
+### 🌱 I’m currently learning ...
+  Javascript
 
-#- 📫 How to reach me:
+### 🔭 I’m currently working on ...
+  Python
 
-#### on Discord as vis#4374
-#### over email at
-#### on GitHub right here
+### 📫 How to reach me:
+  on Discord as vis#4374
+  over email at
+  on GitHub right here
 
 <!--
 **vis2x/vis2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
