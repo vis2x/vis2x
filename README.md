@@ -27,7 +27,7 @@ I have experience in a range of languages including Python and Javascript. I now
 
 You can find me:
 - on [Discord](https://discord.com) as vis#4374
-- over email as <needtomake>
+- over email at <needtomake>
 - on [GitHub](https://github.com/vis2x) right here
 
 
