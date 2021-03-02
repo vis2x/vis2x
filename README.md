@@ -26,7 +26,7 @@ I'm a sixth form student in the UK, working towards my A Levels.
 I have experience in Python and I am learning Javascript. I now work on a range of projects as hobbies for my own enjoyment and learning.
 
 You can find me:
-- on [Discord](https://discord.com) as vis#4374
+- on [Discord](https://discord.com) as vis#1000
 - over email at <needtomake>
 - on [GitHub](https://github.com/vis2x) right here
 
